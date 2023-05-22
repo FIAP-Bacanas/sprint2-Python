@@ -40,3 +40,6 @@ Caso o Usuário digite que já atravessou ele voltará para a primeira tela.
 
 [Código](https://justpaste.it/2hfak)
 
+## Github
+
+[Github do projeto](https://github.com/FIAP-Bacanas/sprint2-Python)
